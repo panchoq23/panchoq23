@@ -1,11 +1,6 @@
-<!-- Banner de Geralt -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/panchoq23/panchoq23/main/banner_geralt.png" width="500" alt="Banner Geralt" />
-</p>
-
 <!-- Texto animado estilo máquina de escribir -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hola%2C+soy+Francisco+(Pancho)+%F0%9F%91%8B;Estudiante+de+Analista+Programador;Apasionado+por+el+c%C3%B3digo+y+la+filosof%C3%ADa;Fan+de+The+Witcher+3+%F0%9F%8E%AE;Amante+del+anime+y+los+libros+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hola%2C+soy+Francisco+(Pancho)+%F0%9F%91%8B;Estudiante+de+Analista+Programador;Apasionado+del+desarrollo+web+y+mobile" />
 </p>
 
 ---
@@ -82,5 +77,4 @@
 </p>
 
 --- 
-
 

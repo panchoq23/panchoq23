@@ -1,6 +1,6 @@
 <!-- Banner de Geralt -->
 <p align="center">
-  <img src="https://github.com/panchoq23/panchoq23/blob/main/banner_geralt.png" width="500" alt="Banner Geralt" />
+  <img src="https://raw.githubusercontent.com/panchoq23/panchoq23/main/banner_geralt.png" width="500" alt="Banner Geralt" />
 </p>
 
 <!-- Texto animado estilo máquina de escribir -->
@@ -81,6 +81,6 @@
   </a>
 </p>
 
----
+--- 
 
 
